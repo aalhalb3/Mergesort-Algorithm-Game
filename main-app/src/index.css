@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.number{
+  margin-left: 30%;
+  min-width: 40px;
+  height: 30px;
+  background-color: aqua;
+}
+
+#stepOne{
+  margin-left: 33.9%;
+}
+
+#stepTwo{
+  margin-left: 31.5%;
+}
+
+#stepThree{
+  margin-left: 26.75%;
+}
+
+#stepFour{
+  margin-left: 17.5%;
+}
+
+#stepFive{
+  margin-left: 28%;
+}
+
+#stepSix{
+  margin-left: 31.5%;
+}
+
+#stepSeven{
+  margin-left: 34%;
+}
+
+#stepEight{
+  margin-left: 33.9%;
+}
+
+table, tr{
+  min-width: max-content;
+  margin-top: 2%;
+}
+
+td{  
+  text-align: center;
+  background-color: aqua;
+}
+
+.steps { 
+  margin-top: 1%;
+}
+
+.dropBox{  
+  border-style: solid;
+  border-width: 1px;
+  padding:12px;
+  text-align: center;
+  min-width: 20px;
+  height: 20px;
+}
+
+#root{
+  margin-top: 3%;
+  text-align: center;
+}
+
+.step{
+  text-align: center;
+  margin-left: 30%;
+}
+
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 5px solid rgb(84, 177, 214);
+  padding: 10px;
+  }
+
+.timer{
+  float: left;
+  padding-right: 1400px;
+  width: 150px;
+  height: 1px
+  
+
+}
+  
+  
+
+
+
